@@ -37,7 +37,7 @@ f.close()
 
 print pages
 
-text_file = open("/Users/Jeff/Desktop/Data/Hack/page.txt", "w")
+text_file = open("/Users/Jeff/Desktop/DataHack/page.txt", "w")
 for p in pages:
     for w in p:
         text_file.write(str(w.encode("UTF-8")) + " ")
