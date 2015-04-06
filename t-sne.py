@@ -1,7 +1,7 @@
 __author__ = 'Jeff'
 #  Created by Laurens van der Maaten on 20-12-08.
 #  Copyright (c) 2008 Tilburg University. All rights reserved.
-#  Modify by Jeff
+#  Modefied by Jeff
 
 
 
